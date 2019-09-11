@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am dankyeetus on github.
+  * I am dankyeeter (https://keybase.io/dankyeeter) on keybase.
+  * I have a public key ASBjtD_hPmihK4J6TSqGo_pYUaDCg2g0IfNgvUkLUfdJHwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120819e5f1eb8aa03081bfad1bb4c78b1ce247b9cb576a8465e95b4012841ce8c910a",
+      "host": "keybase.io",
+      "kid": "012063b43fe13e68a12b827a4d2a86a3fa5851a0c283683421f360bd490b51f7491f0a",
+      "uid": "7321fb0b577a6d3a83c36fdbe0c73519",
+      "username": "dankyeeter"
+    },
+    "merkle_root": {
+      "ctime": 1568221146,
+      "hash": "6d2795f17d182285334e455760d39d52f951ea48ab875a6fbc941f1317fd98b0e09d9a24b868762f049695571b67d0faa6f3505f3e7bd5acd51bc0838274ad9d",
+      "hash_meta": "fb4998dee08f4d6e3fe7eaaf880ff2b521d5feb552bdb5e56ce835bbca32bc7f",
+      "seqno": 6767237
+    },
+    "service": {
+      "entropy": "J7JXuah85aOpkIryMOvSQJqz",
+      "name": "github",
+      "username": "dankyeetus"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568221150,
+  "expire_in": 504576000,
+  "prev": "5803987e0d2b2b55f56b8588bdbb5539fdbfbd364f7260fe96e06e93f55b52c2",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASBjtD_hPmihK4J6TSqGo_pYUaDCg2g0IfNgvUkLUfdJHwo](https://keybase.io/dankyeeter), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgY7Q/4T5ooSuCek0qhqP6WFGgwoNoNCHzYL1JC1H3SR8Kp3BheWxvYWTESpcCDcQgWAOYfg0rK1X1a4WIvbtVOf2/vTZPcmD+luBuk/VbUsLEIF/EG84H5c7/l0SFj6rtLL+dGflJfVv0SmTA6kc4VdehAgHCo3NpZ8RAA0G4WdgKs1ZStYrcBL/UAEyGFI8GK92YyDSSjzEdxsKmL7ccDYFOSpJi8gyY+eqhJJRNkUsJIfTy2qEEgYfFDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOF3oFKZQMC6pe1i/GnGnLUL4Ws8dendrcLLCu4/7ynQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/dankyeeter
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id dankyeeter
+```
